@@ -1,4 +1,19 @@
+## 👋 About Me  
 
+Hi there! I'm Krishna Kushwaha, a passionate **Frontend Developer** who loves crafting beautiful and interactive web experiences. I specialize in building responsive and user-friendly websites using modern web technologies.  
+
+### 🔧 Skills & Tools  
+- 🌐 **Frontend:** HTML, CSS, JavaScript  
+- 🎨 **Styling:** CSS3, SASS, Tailwind CSS, Bootstrap 
+- 🛠️ **Build Tools:** Webpack, Vite, Parcel  
+- 🔗 **Version Control:** Git, GitHub  
+- 🎭 **UI/UX:** Figma, Adobe XD  
+
+### 🚀 What I Do  
+- Create **responsive** and **interactive** websites  
+- Develop **reusable** and **optimized** UI components  
+- Convert **designs** into pixel-perfect web pages  
+- Stay updated with **modern web technologies**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-kumar-singh) 
 
